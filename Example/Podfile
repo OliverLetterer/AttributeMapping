@@ -1,9 +1,0 @@
-
-target 'SPLAttributeMapping', :exclusive => true do
-  pod "SPLAttributeMapping", :path => "../"
-
-  pod 'Specta', '~> 0.2.1'
-  pod 'Expecta'
-  pod 'FBSnapshotTestCase'
-  pod 'Expecta+Snapshots'
-end

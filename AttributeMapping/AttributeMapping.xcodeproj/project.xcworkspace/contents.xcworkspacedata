@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SPLAttributeMapping.xcodeproj">
+      location = "self:AttributeMapping.xcodeproj">
    </FileRef>
 </Workspace>
